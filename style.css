@@ -36,7 +36,7 @@ body {
 .radio-btn {
   position: absolute;
   top: 10%;
-  left: 27px; /* Adjust the left position as needed */
+  left: 27px;
   transform: translateY(-50%);
   width: 20px;
   height: 20px;
